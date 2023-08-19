@@ -1,7 +1,7 @@
 # Reversi-Native
 A simple implementation of Reversi board game in React Native.
+<img src="https://raw.githubusercontent.com/konstantinostheod/reversi-native/main/gameplay.png" alt="Gameplay Screenshot" width="350"/>
 
-![Gameplay Screenshot](https://raw.githubusercontent.com/konstantinostheod/reversi-native/main/gameplay.png)
 
 ## Installation
 1. Clone the repository.
